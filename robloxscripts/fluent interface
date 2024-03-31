@@ -1,7 +1,7 @@
     setclipboard("https://discord.gg/kuXFw2HkdN")
     game.Players.LocalPlayer:Kick("Check script here : https://discord.gg/kuXFw2HkdN")
     repeat wait(.1)
-        print("ngu ngu ngu : https://discord.gg/kuXFw2HkdN")
+        print("ngu ngu ngu óc buồi : https://discord.gg/kuXFw2HkdN")
         until game.CoreGui:FindFirstChild("MBMHUBXUI")
      task.delay(1 * 25, function()
      game:Shutdown() 

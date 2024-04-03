@@ -314,6 +314,3 @@ local SaveManager = {} do
 	end
 
 	SaveManager:BuildFolderTree()
-end
-
-return SaveManager
